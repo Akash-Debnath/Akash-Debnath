@@ -1,6 +1,6 @@
 
 <h1 align="center">Greetings to you, I'm Akash Chandra Debnath</h1>
-<h3 align="center">A passionate Full-stack developer from Bangladesh.</h3>
+<h3 align="center">A passionate Full-stack web developer from Bangladesh.</h3>
 
 
 - 🌱 I’m currently learning **Rest API, Vue, Node Js**
