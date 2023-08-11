@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Full-stack web developer from Bangladesh.</h3>
 
 
-- 🌱 I’m currently learning **Rest API, Vue, Node Js**
+- 🌱 I’m currently diving on **Rest API, Express, Vue, Node Js**
 
 - 💬 Ask me about **Laravel , Vue**
 
