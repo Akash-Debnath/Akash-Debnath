@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Laravel , Express, Vue**
 
-- 📫 How to reach me **akashdebnath6340@gmail.com**
+- 📫 How to reach me **akash2513@student.nstu.edu.bd**
 
 - ⚡ Connect in LinkedIn https://www.linkedin.com/in/akash-chandra-debnath-513125215/
 
