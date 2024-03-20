@@ -3,9 +3,9 @@
 <h3 align="center">A passionate Data Engineer and Full-stack web developer from Bangladesh.</h3>
 
 
-- 🌱 I’m currently working as a Data Engineer**
+- 🌱 I’m currently working as a **Data Engineer**
 
-- 💬 Ask me about **Laravel , Express, Vue**
+- 💬 Ask me about **Big Data Analytics, Machine Learning, Laravel, Vue**
 
 - 📫 How to reach me **akash2513@student.nstu.edu.bd**
 
