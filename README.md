@@ -1,9 +1,9 @@
 
 <h1 align="center">Greetings to you, I'm Akash Chandra Debnath</h1>
-<h3 align="center">A passionate Full-stack web developer from Bangladesh.</h3>
+<h3 align="center">A passionate Data Engineer and Full-stack web developer from Bangladesh.</h3>
 
 
-- 🌱 I’m currently diving on **Rest API, Express, React, Node Js**
+- 🌱 I’m currently working as a Data Engineer**
 
 - 💬 Ask me about **Laravel , Express, Vue**
 
