@@ -4,8 +4,6 @@
 <p align="center">👉 Get Details Visit:  https://akash-portfolio-black.vercel.app</p>
 
 
-- 🌱 I’m working also as a **Data Engineer**
-
 - 💬 Ask me about **Big Data Analytics, Machine Learning, Laravel, Vue**
 
 - 📫 How to reach me **akash2513@student.nstu.edu.bd**
